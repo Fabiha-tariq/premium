@@ -1,0 +1,13 @@
+1. When you want to update new version please check carefully your current version
+2. If you version below 6.3.3 you need update 
+
+
+Otherwise your system will crash and never possible to update
+
+Only solution remove all and fresh install.
+
+#### PLEASE MAKE BACKUP YOUR WHOLE SITE WITH DATABASE PREVENT FROM YOUR SERVER MANUALLY. ###
+
+Check the Video how easy to update: https://www.youtube.com/watch?v=3NEY3DI84yA
+
+Thanks 

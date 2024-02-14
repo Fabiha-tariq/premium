@@ -1,0 +1,14 @@
+Before update check
+1. max_execution_time >= 300
+2. max_input_time >= 600
+3. max_input_vars >= 10000
+4. memory_limit >= 256MB
+5. post_max_size >= 128MB
+6. upload_max_filesize >= 32MB
+
+How to update
+1. Go to System Settings > About & Update
+2. Browse infixEduV6.3.3_To_V6.*.*.zip and save.
+3. If Request not handling issue,"/bootstrap/cache" manually  delete all files.
+4. If error in register then make sure email config is done?
+4. Done. 

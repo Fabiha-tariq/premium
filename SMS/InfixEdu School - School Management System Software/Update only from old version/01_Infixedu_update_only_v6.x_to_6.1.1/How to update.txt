@@ -1,0 +1,6 @@
+
+1. Go to System setting>Update
+2. Select infixedu_v6_to_v6.1.1.zip and upload
+3. Click Save file
+4. Reload the page
+5. Done

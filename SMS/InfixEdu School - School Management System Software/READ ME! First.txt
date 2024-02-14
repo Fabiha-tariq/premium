@@ -1,0 +1,33 @@
+
+1. If you are already installed old version then v6.0 is major release you need to fresh install and insert all data.
+
+2. If you just purchase than please install new version which available and dont need to update same version update like, you get v6.1.2 then install only main upload that included all v6.1, v6.1.2 updated.
+
+3. Chat and lesson plan- we have separate Documentation pease check details.
+
+
+#### PLEASE MAKE BACKUP YOUR WHOLE SITE WITH DATABASE PREVENT FROM ANY PROBLEM BEFORE UPDATE. ###
+
+Please try changing the below info on php.ini
+
+max_execution_time 30000
+max_input_time 30000
+memory_limit 512MB
+post_max_size 512MB
+upload_max_filesize 1028M
+
+also, make sure PHP -v see in command line min 7.4.x
+
+
+Please check the installation video https://www.youtube.com/watch?v=tfQ9htbQIog&t
+we have a simple process
+
+1. Upload file
+2. Unzip make sure to show all hidden files
+3. Move the desired location and enter that URL
+4. Start auto installation.
+
+
+https://ticket.spondonit.com/help-center/articles/1/11/36/500-internal-server-error
+
+Support only: https://ticket.spondonit.com/help-center

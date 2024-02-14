@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375186884813",
+    "project_id": "my-leather",
+    "storage_bucket": "my-leather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375186884813:android:80c7f20d6013c128d68184",
+        "android_client_info": {
+          "package_name": "com.leatheroutfitters.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375186884813-olckg79vk41ducc49hsesp7ghbtsou6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4czf0SW8JRH56ZSv8X2BXbolF9HftTa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375186884813-olckg79vk41ducc49hsesp7ghbtsou6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

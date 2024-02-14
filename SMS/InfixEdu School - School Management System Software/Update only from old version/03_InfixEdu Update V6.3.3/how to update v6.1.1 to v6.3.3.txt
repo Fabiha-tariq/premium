@@ -1,0 +1,5 @@
+1. Go to System Settings > About & Update
+2. Browse infixEduV6.1.1_To_V6.*.*.zip and save.
+3. If Request not handling issue,"/bootstrap/cache" manually  delete all files.
+4. If error in register then make sure email config is done?
+4. Done. 

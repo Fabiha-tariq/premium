@@ -1,0 +1,1600 @@
+# Copyright (C) 2018 weDevs
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dokan - WooCommerce Booking Integration 1.4.4\n"
+"Report-Msgid-Bugs-To: support@wedevs.com\n"
+"POT-Creation-Date: 2018-07-20 06:35:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n1.0.1\n"
+
+#: dokan-wc-booking.php:77
+msgid ""
+"<b>Dokan WC Booking </b> requires %sDokan plugin%s to be installed & "
+"activated!"
+msgstr ""
+
+#: dokan-wc-booking.php:82
+msgid ""
+"<b>Dokan WC Booking </b> requires %sWooCommerce Bookings plugin%s to be "
+"installed & activated!"
+msgstr ""
+
+#: dokan-wc-booking.php:302
+msgid "Are you sure you want to remove this person type?"
+msgstr ""
+
+#: dokan-wc-booking.php:306
+msgid "Are you sure you want to remove this resource?"
+msgstr ""
+
+#: dokan-wc-booking.php:309
+msgid "minutes"
+msgstr ""
+
+#: dokan-wc-booking.php:310
+msgid "days"
+msgstr ""
+
+#: dokan-wc-booking.php:311
+msgid "Enter a name for the new resource"
+msgstr ""
+
+#: dokan-wc-booking.php:396
+msgid "Dokan New Booking"
+msgstr ""
+
+#: dokan-wc-booking.php:397
+msgid ""
+"New booking emails are sent to the admin when a new booking is created and "
+"paid. This email is also received when a Pending confirmation booking is "
+"created."
+msgstr ""
+
+#: dokan-wc-booking.php:447
+msgid "Booking"
+msgstr ""
+
+#: dokan-wc-booking.php:469
+msgid "You have no permission to view this booking page"
+msgstr ""
+
+#: dokan-wc-booking.php:632
+#: includes/emails/class-dokan-booking-email-cancelled.php:122
+#: templates/booking/my-bookings/all-bookings.php:132
+#: templates/booking/my-bookings/booking-details.php:237
+#: templates/booking/resources/resources.php:107
+msgid "N/A"
+msgstr ""
+
+#: dokan-wc-booking.php:634 templates/booking/product-list.php:119
+#: templates/booking/resources/resources.php:111
+msgid "Edit"
+msgstr ""
+
+#: dokan-wc-booking.php:635 templates/booking/persons/html-booking-person.php:9
+#: templates/booking/resources/html-booking-resource.php:9
+#: templates/booking/resources/resources.php:112
+msgid "Remove"
+msgstr ""
+
+#: dokan-wc-booking.php:803 dokan-wc-booking.php:817
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: dokan-wc-booking.php:806
+msgid "You have taken too long. Please go back and retry."
+msgstr ""
+
+#: dokan-wc-booking.php:888
+msgid "Error Occured"
+msgstr ""
+
+#: dokan-wc-booking.php:903
+msgid "All Booking Product"
+msgstr ""
+
+#: dokan-wc-booking.php:907
+msgid "Add Booking Product"
+msgstr ""
+
+#: dokan-wc-booking.php:911 templates/booking/my-bookings/all-bookings.php:43
+msgid "Manage Bookings"
+msgstr ""
+
+#: dokan-wc-booking.php:915
+msgid "Calendar"
+msgstr ""
+
+#: dokan-wc-booking.php:919
+#: templates/booking/resources/html-booking-resources.php:90
+msgid "Manage Resources"
+msgstr ""
+
+#: dokan-wc-booking.php:923
+msgid "Edit Booking Product"
+msgstr ""
+
+#: dokan-wc-booking.php:927
+msgid "Edit Resource"
+msgstr ""
+
+#: dokan-wc-booking.php:931
+msgid "Edit Booking"
+msgstr ""
+
+#: dokan-wc-booking.php:1148
+msgid "Booking #%s"
+msgstr ""
+
+#: dokan-wc-booking.php:1158
+msgid "Confirm booking"
+msgstr ""
+
+#: dokan-wc-booking.php:1162
+msgid "View booking &rarr;"
+msgstr ""
+
+#: includes/class-wc-booking-calendar.php:109
+#: includes/class-wc-booking-calendar.php:224
+msgid "Booked by"
+msgstr ""
+
+#: includes/class-wc-booking-calendar.php:113
+msgid "All Day"
+msgstr ""
+
+#: includes/class-wc-booking-calendar.php:118
+#: includes/class-wc-booking-calendar.php:227
+msgid "Resource #"
+msgstr ""
+
+#: includes/emails/class-dokan-booking-email-cancelled.php:26
+msgid "Dokan Booking Cancelled by Customer"
+msgstr ""
+
+#: includes/emails/class-dokan-booking-email-cancelled.php:27
+msgid ""
+"This email is sent to admin and vendor when booking is cancelled by the "
+"customer"
+msgstr ""
+
+#: includes/emails/class-dokan-booking-email-cancelled.php:50
+msgid "\"{product_title}\" has been cancelled"
+msgstr ""
+
+#: includes/emails/class-dokan-booking-email-cancelled.php:60
+msgid "{product_title} - is Cancelled"
+msgstr ""
+
+#: includes/emails/class-dokan-booking-email-cancelled.php:178
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/emails/class-dokan-booking-email-cancelled.php:180
+msgid "Enable this email notification"
+msgstr ""
+
+#: includes/emails/class-dokan-booking-email-cancelled.php:185
+msgid "Subject"
+msgstr ""
+
+#: includes/emails/class-dokan-booking-email-cancelled.php:189
+#: includes/emails/class-dokan-booking-email-cancelled.php:198
+#. translators: %s: list of placeholders
+msgid "Available placeholders: %s"
+msgstr ""
+
+#: includes/emails/class-dokan-booking-email-cancelled.php:194
+msgid "Email heading"
+msgstr ""
+
+#: includes/emails/class-dokan-booking-email-cancelled.php:203
+msgid "Email type"
+msgstr ""
+
+#: includes/emails/class-dokan-booking-email-cancelled.php:205
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: includes/libs/update.php:72
+msgid ""
+"Please <a href=\"%s\">enter</a> your <strong>Dokan WC Booking</strong> "
+"plugin license key to get regular update and support."
+msgstr ""
+
+#: includes/libs/update.php:87
+msgid "Please activate your copy"
+msgstr ""
+
+#: includes/libs/update.php:125
+msgid "Dokan WC Booking Error:"
+msgstr ""
+
+#: includes/libs/update.php:318
+msgid "Empty email address"
+msgstr ""
+
+#: includes/libs/update.php:322
+msgid "Empty license key"
+msgstr ""
+
+#: includes/libs/update.php:340
+msgid "Settings Saved"
+msgstr ""
+
+#: includes/libs/update.php:354
+msgid "Dokan WC Booking"
+msgstr ""
+
+#: includes/libs/update.php:365
+msgid "E-mail Address"
+msgstr ""
+
+#: includes/libs/update.php:368
+msgid "Enter your purchase Email address"
+msgstr ""
+
+#: includes/libs/update.php:372
+msgid "License Key"
+msgstr ""
+
+#: includes/libs/update.php:375
+msgid "Enter your license key"
+msgstr ""
+
+#: includes/libs/update.php:380
+msgid "Save & Activate"
+msgstr ""
+
+#: includes/libs/update.php:389
+msgid "has been expired %s ago"
+msgstr ""
+
+#: includes/libs/update.php:392
+msgid "will expire in %s"
+msgstr ""
+
+#: includes/libs/update.php:398
+msgid "Validity:"
+msgstr ""
+
+#: includes/libs/update.php:403
+msgid "Renew License"
+msgstr ""
+
+#: includes/libs/update.php:411
+msgid "Dokan WC Booking Plugin is activated"
+msgstr ""
+
+#: includes/libs/update.php:415
+msgid "Delete Dokan WC Booking License"
+msgstr ""
+
+#: templates/booking/booking.php:44 templates/booking/booking.php:52
+#: templates/booking/booking.php:60 templates/booking/booking.php:68
+#: templates/booking/booking.php:76 templates/booking/booking.php:84
+#: templates/booking/booking.php:92 templates/booking/booking.php:100
+msgid "You have no permission to view this page"
+msgstr ""
+
+#: templates/booking/calendar/html-calendar-day.php:3
+msgid "Bookings by day"
+msgstr ""
+
+#: templates/booking/calendar/html-calendar-day.php:13
+#: templates/booking/calendar/html-calendar-month.php:14
+msgid "Filter Bookings"
+msgstr ""
+
+#: templates/booking/calendar/html-calendar-day.php:15
+#: templates/booking/calendar/html-calendar-month.php:19
+msgid "By bookable product"
+msgstr ""
+
+#: templates/booking/calendar/html-calendar-day.php:22
+#: templates/booking/calendar/html-calendar-month.php:26
+msgid "By resource"
+msgstr ""
+
+#: templates/booking/calendar/html-calendar-day.php:38
+msgid "Month View"
+msgstr ""
+
+#: templates/booking/calendar/html-calendar-month.php:3
+msgid "Bookings by month"
+msgstr ""
+
+#: templates/booking/calendar/html-calendar-month.php:53
+msgid "Day View"
+msgstr ""
+
+#: templates/booking/html-attributes.php:3
+msgid "Attribute"
+msgstr ""
+
+#: templates/booking/html-attributes.php:4
+msgid "Manage attributes"
+msgstr ""
+
+#: templates/booking/html-attributes.php:66
+msgid "Custom Attribute"
+msgstr ""
+
+#: templates/booking/html-attributes.php:77
+msgid "Add attribute"
+msgstr ""
+
+#: templates/booking/html-attributes.php:78
+msgid "Save attribute"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:5
+#: templates/booking/html-booking-pricing-fields.php:5
+msgid "January"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:6
+#: templates/booking/html-booking-pricing-fields.php:6
+msgid "February"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:7
+#: templates/booking/html-booking-pricing-fields.php:7
+msgid "March"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:8
+#: templates/booking/html-booking-pricing-fields.php:8
+msgid "April"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:9
+#: templates/booking/html-booking-pricing-fields.php:9
+msgid "May"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:10
+#: templates/booking/html-booking-pricing-fields.php:10
+msgid "June"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:11
+#: templates/booking/html-booking-pricing-fields.php:11
+msgid "July"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:12
+#: templates/booking/html-booking-pricing-fields.php:12
+msgid "August"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:13
+#: templates/booking/html-booking-pricing-fields.php:13
+msgid "September"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:14
+#: templates/booking/html-booking-pricing-fields.php:14
+msgid "October"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:15
+#: templates/booking/html-booking-pricing-fields.php:15
+msgid "November"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:16
+#: templates/booking/html-booking-pricing-fields.php:16
+msgid "December"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:20
+#: templates/booking/html-booking-pricing-fields.php:20
+msgid "Monday"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:21
+#: templates/booking/html-booking-pricing-fields.php:21
+msgid "Tuesday"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:22
+#: templates/booking/html-booking-pricing-fields.php:22
+msgid "Wednesday"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:23
+#: templates/booking/html-booking-pricing-fields.php:23
+msgid "Thursday"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:24
+#: templates/booking/html-booking-pricing-fields.php:24
+msgid "Friday"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:25
+#: templates/booking/html-booking-pricing-fields.php:25
+msgid "Saturday"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:26
+#: templates/booking/html-booking-pricing-fields.php:26
+msgid "Sunday"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:30
+#: templates/booking/html-booking-pricing-fields.php:30
+msgid "Week %s"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:46
+#: templates/booking/html-booking-pricing-fields.php:51
+msgid "Date range"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:47
+#: templates/booking/html-booking-pricing-fields.php:52
+msgid "Range of months"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:48
+#: templates/booking/html-booking-pricing-fields.php:53
+msgid "Range of weeks"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:49
+#: templates/booking/html-booking-pricing-fields.php:54
+msgid "Range of days"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:50
+#: templates/booking/html-booking-pricing-fields.php:58
+msgid "Time Ranges"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:51
+#: templates/booking/html-booking-pricing-fields.php:59
+msgid "Time Range (all week)"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:52
+#: templates/booking/html-booking-pricing-fields.php:60
+msgid "Date Range with time"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:100
+#: templates/booking/html-booking-availability-fields.php:101
+#: templates/booking/html-booking-pricing-fields.php:113
+#: templates/booking/html-booking-pricing-fields.php:114
+msgid "to"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:146
+msgid "No"
+msgstr ""
+
+#: templates/booking/html-booking-availability-fields.php:147
+msgid "Yes"
+msgstr ""
+
+#: templates/booking/html-booking-pricing-fields.php:55
+msgid "Time Range"
+msgstr ""
+
+#: templates/booking/html-booking-pricing-fields.php:56
+msgid "Person count"
+msgstr ""
+
+#: templates/booking/html-booking-pricing-fields.php:57
+msgid "Block count"
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:9
+msgid "Costs"
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:10
+msgid "Set Costs options"
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:18
+#: templates/booking/html-dokan-booking-pricing.php:56
+msgid "Base cost"
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:19
+msgid "One-off cost for the booking as a whole."
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:28
+#: templates/booking/html-dokan-booking-pricing.php:60
+msgid "Block cost"
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:29
+msgid ""
+"This is the cost per block booked. All other costs (for resources and "
+"persons) are added to this."
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:38
+msgid "Display cost"
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:39
+msgid ""
+"The cost is displayed to the user on the frontend. Leave blank to have it "
+"calculated for you. If a booking has varying costs, this will be prefixed "
+"with the word \"from:\"."
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:52
+#: templates/booking/new-product.php:497
+#: templates/booking/resources/edit-resource.php:78
+msgid "Range type"
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:53
+#: templates/booking/new-product.php:498
+#: templates/booking/resources/edit-resource.php:79
+msgid "Range"
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:57
+msgid "Enter a cost for this rule. Applied to the booking as a whole."
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:61
+msgid "Enter a cost for this rule. Applied to each booking block."
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:76
+#: templates/booking/new-product.php:525
+#: templates/booking/resources/edit-resource.php:106
+msgid "Add Range"
+msgstr ""
+
+#: templates/booking/html-dokan-booking-pricing.php:77
+msgid "All matching rules will be applied to the booking."
+msgstr ""
+
+#: templates/booking/html-other-options.php:3
+#: templates/booking/new-product.php:614
+msgid "Other Options"
+msgstr ""
+
+#: templates/booking/html-other-options.php:4
+#: templates/booking/new-product.php:615
+msgid "Set your extra product options"
+msgstr ""
+
+#: templates/booking/html-other-options.php:13
+#: templates/booking/new-product.php:624
+msgid "Product Status"
+msgstr ""
+
+#: templates/booking/html-other-options.php:17
+#: templates/booking/new-product.php:628
+msgid "Online"
+msgstr ""
+
+#: templates/booking/html-other-options.php:18
+#: templates/booking/new-product.php:629
+msgid "Draft"
+msgstr ""
+
+#: templates/booking/html-other-options.php:34
+#: templates/booking/new-product.php:645
+msgid "Visibility"
+msgstr ""
+
+#: templates/booking/html-other-options.php:45
+#: templates/booking/new-product.php:656
+msgid "Purchase Note"
+msgstr ""
+
+#: templates/booking/html-other-options.php:46
+#: templates/booking/new-product.php:657
+msgid "Customer will get this info in their order email"
+msgstr ""
+
+#: templates/booking/html-other-options.php:51
+#: templates/booking/new-product.php:662
+msgid "Enable product reviews"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:16
+msgid "Shipping and Tax"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:17
+msgid "Manage shipping and tax for this product"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:37
+msgid "This product requires shipping"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:42
+msgid "weight (%s)"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:43
+msgid "length (%s)"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:44
+msgid "width (%s)"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:45
+msgid "height (%s)"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:53
+msgid "Shipping Class"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:67
+msgid "No shipping class"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:76
+msgid ""
+"Shipping classes are used by certain shipping methods to group similar "
+"products."
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:83
+msgid "Override your store's default shipping cost for this product"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:88
+msgid "Additional cost"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:93
+msgid "Per Qty Additional Price"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:98
+msgid "Processing Time"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:116
+msgid "Tax Status"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:119
+msgid "Taxable"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:120
+msgid "Shipping only"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:128
+msgid "Tax Class"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:51
+msgid "All (%d)"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:74
+msgid "Booking Status"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:75
+msgid "ID"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:76
+#: templates/emails/admin-booking-cancelled.php:18
+#: templates/emails/admin-new-booking.php:25
+#: templates/emails/customer-booking-cancelled.php:18
+msgid "Booked Product"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:77
+msgid "Customer"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:78
+msgid "# of persons"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:79
+msgid "Order"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:80
+msgid "Start Date"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:81
+msgid "End Date"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:82
+msgid "Action"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:95
+#: templates/booking/my-bookings/all-bookings.php:96
+msgid "%s"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:100
+msgid "Booking #%d"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:175
+#: templates/booking/product-list.php:136
+msgid "View"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:182
+msgid "Confirm"
+msgstr ""
+
+#: templates/booking/my-bookings/all-bookings.php:224
+msgid "No Bookings found"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:30
+msgid "This is not yours, I swear!"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:43
+msgid "Booking Details"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:46
+msgid "Booking Number: #%d. Order Number:<a href=\"%s\"> #%d </a>"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:58
+msgid "Details"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:64
+msgid "Booking Status:"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:66
+msgid "&nbsp; Edit"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:83
+msgid "Update"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:85
+msgid "Cancel"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:90
+msgid "Order Date :"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:98
+msgid "Booked Product : "
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:109
+msgid "Resource(s) :"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:123
+#: templates/booking/my-bookings/booking-details.php:130
+msgid "Person(s) :"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:140
+msgid "Booking Start Date :"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:145
+msgid "Booking End Date :"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:150
+msgid "Duration :"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:174
+msgid "Customer Details"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:184
+msgid "Name:"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:194
+msgid "User Email:"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:204
+msgid "Address:"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:209
+msgid "No billing address set."
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:214
+msgid "Email:"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:220
+msgid "Phone:"
+msgstr ""
+
+#: templates/booking/my-bookings/booking-details.php:228
+msgid "View Order"
+msgstr ""
+
+#: templates/booking/new-product.php:42
+msgid "Add Bookable product"
+msgstr ""
+
+#: templates/booking/new-product.php:51
+msgid "View Product"
+msgstr ""
+
+#: templates/booking/new-product.php:56
+msgid "Hidden"
+msgstr ""
+
+#: templates/booking/new-product.php:70
+msgid "Error!"
+msgstr ""
+
+#: templates/booking/new-product.php:79
+#: templates/booking/resources/edit-resource.php:33
+msgid "Success!"
+msgstr ""
+
+#: templates/booking/new-product.php:79
+msgid "The product has been saved successfully."
+msgstr ""
+
+#: templates/booking/new-product.php:82
+msgid "View Product &rarr;"
+msgstr ""
+
+#: templates/booking/new-product.php:112
+msgid "Title"
+msgstr ""
+
+#: templates/booking/new-product.php:114
+msgid "Please choose a Name !!!"
+msgstr ""
+
+#: templates/booking/new-product.php:116
+msgid "Product name.."
+msgstr ""
+
+#: templates/booking/new-product.php:120 templates/booking/product-list.php:182
+msgid "Virtual"
+msgstr ""
+
+#: templates/booking/new-product.php:120
+msgid "Virtual products are intangible and aren't shipped."
+msgstr ""
+
+#: templates/booking/new-product.php:125
+msgid "Category"
+msgstr ""
+
+#: templates/booking/new-product.php:149
+msgid "Select product category"
+msgstr ""
+
+#: templates/booking/new-product.php:156
+msgid "Tags"
+msgstr ""
+
+#: templates/booking/new-product.php:176
+msgid "Select product tags"
+msgstr ""
+
+#: templates/booking/new-product.php:201
+msgid "Upload a product cover image"
+msgstr ""
+
+#: templates/booking/new-product.php:232
+msgid "Delete image"
+msgstr ""
+
+#: templates/booking/new-product.php:238
+msgid "Add gallery image"
+msgstr ""
+
+#: templates/booking/new-product.php:283
+msgid "Booking duration"
+msgstr ""
+
+#: templates/booking/new-product.php:286
+msgid "Fixed blocks of"
+msgstr ""
+
+#: templates/booking/new-product.php:287
+msgid "Customer defined blocks of"
+msgstr ""
+
+#: templates/booking/new-product.php:291 templates/booking/new-product.php:357
+#: templates/booking/new-product.php:432 templates/booking/new-product.php:444
+msgid "Month(s)"
+msgstr ""
+
+#: templates/booking/new-product.php:292 templates/booking/new-product.php:359
+#: templates/booking/new-product.php:434 templates/booking/new-product.php:446
+msgid "Day(s)"
+msgstr ""
+
+#: templates/booking/new-product.php:293 templates/booking/new-product.php:360
+#: templates/booking/new-product.php:435 templates/booking/new-product.php:447
+msgid "Hour(s)"
+msgstr ""
+
+#: templates/booking/new-product.php:294
+msgid "Minutes(s)"
+msgstr ""
+
+#: templates/booking/new-product.php:302
+msgid "Minimum duration"
+msgstr ""
+
+#: templates/booking/new-product.php:308
+msgid "Maximum duration"
+msgstr ""
+
+#: templates/booking/new-product.php:314
+msgid "Calendar display mode"
+msgstr ""
+
+#: templates/booking/new-product.php:316
+msgid "Display calendar on click"
+msgstr ""
+
+#: templates/booking/new-product.php:317
+msgid "Calendar always visible"
+msgstr ""
+
+#: templates/booking/new-product.php:324
+msgid "Enable Calendar Range Picker?"
+msgstr ""
+
+#: templates/booking/new-product.php:325
+msgid ""
+"Lets the user select a start and end date on the calendar - duration will "
+"be calculated automatically."
+msgstr ""
+
+#: templates/booking/new-product.php:334
+msgid "Requires Confirmation"
+msgstr ""
+
+#: templates/booking/new-product.php:335
+msgid ""
+"Check this box if the booking requires YOUR approval/confirmation. Payment "
+"will not be taken during CHECKOUT."
+msgstr ""
+
+#: templates/booking/new-product.php:346
+msgid "Can Be Cancelled ?"
+msgstr ""
+
+#: templates/booking/new-product.php:347
+msgid ""
+"Check this box if the booking can be cancelled by the customer after it has "
+"been purchased. A refund will not be sent automatically."
+msgstr ""
+
+#: templates/booking/new-product.php:354
+msgid "Booking can be cancelled "
+msgstr ""
+
+#: templates/booking/new-product.php:358 templates/booking/new-product.php:433
+#: templates/booking/new-product.php:445
+msgid "Week(s)"
+msgstr ""
+
+#: templates/booking/new-product.php:362
+msgid "before start date"
+msgstr ""
+
+#: templates/booking/new-product.php:415
+msgid "Availability"
+msgstr ""
+
+#: templates/booking/new-product.php:416
+msgid "Set Availability options"
+msgstr ""
+
+#: templates/booking/new-product.php:425
+msgid "Max bookings per block"
+msgstr ""
+
+#: templates/booking/new-product.php:429
+msgid "Minimum booking window ( into the future )"
+msgstr ""
+
+#: templates/booking/new-product.php:441
+msgid "Maximum booking window ( into the future )"
+msgstr ""
+
+#: templates/booking/new-product.php:452
+msgid "Require a buffer period of ( "
+msgstr ""
+
+#: templates/booking/new-product.php:452
+msgid " ) between bookings"
+msgstr ""
+
+#: templates/booking/new-product.php:459
+msgid "Adjacent Buffering ?"
+msgstr ""
+
+#: templates/booking/new-product.php:460
+msgid ""
+"By default buffer period applies forward into the future of a booking. "
+"Enabling this option will apply adjacently (before and after Bookings)"
+msgstr ""
+
+#: templates/booking/new-product.php:467
+msgid "All dates are..."
+msgstr ""
+
+#: templates/booking/new-product.php:469
+msgid "available by default"
+msgstr ""
+
+#: templates/booking/new-product.php:470
+msgid "not-available by default"
+msgstr ""
+
+#: templates/booking/new-product.php:472
+msgid "This option affects how you use the rules below."
+msgstr ""
+
+#: templates/booking/new-product.php:476
+msgid "Check rules against..."
+msgstr ""
+
+#: templates/booking/new-product.php:478
+msgid "All blocks being booked"
+msgstr ""
+
+#: templates/booking/new-product.php:479
+msgid "The starting block only"
+msgstr ""
+
+#: templates/booking/new-product.php:481
+msgid "This option affects how bookings are checked for availability."
+msgstr ""
+
+#: templates/booking/new-product.php:485
+msgid "First block starts at..."
+msgstr ""
+
+#: templates/booking/new-product.php:489
+msgid "Set Availability Range :"
+msgstr ""
+
+#: templates/booking/new-product.php:502
+#: templates/booking/resources/edit-resource.php:83
+msgid "Bookable"
+msgstr ""
+
+#: templates/booking/new-product.php:503
+#: templates/booking/resources/edit-resource.php:84
+msgid "If not bookable, users won't be able to choose this block for their booking."
+msgstr ""
+
+#: templates/booking/new-product.php:509
+#: templates/booking/resources/edit-resource.php:90
+msgid "Priority"
+msgstr ""
+
+#: templates/booking/new-product.php:510
+#: templates/booking/resources/edit-resource.php:91
+msgid ""
+"The lower the priority number, the earlier this rule gets applied. By "
+"default, global rules take priority over product rules which take priority "
+"over resource rules. By using priority numbers you can execute rules in "
+"different orders."
+msgstr ""
+
+#: templates/booking/new-product.php:526
+#: templates/booking/resources/edit-resource.php:107
+msgid ""
+"Rules with lower numbers will execute first. Rules further down this table "
+"with the same priority will also execute first."
+msgstr ""
+
+#: templates/booking/new-product.php:548
+msgid "Extra Options"
+msgstr ""
+
+#: templates/booking/new-product.php:549
+msgid "Set more options"
+msgstr ""
+
+#: templates/booking/new-product.php:558
+msgid "Please Save the Product to add extra options ( Persons or Resources )"
+msgstr ""
+
+#: templates/booking/new-product.php:564
+msgid "Has persons"
+msgstr ""
+
+#: templates/booking/new-product.php:570
+msgid "Has resources"
+msgstr ""
+
+#: templates/booking/new-product.php:598
+msgid "Short Description"
+msgstr ""
+
+#: templates/booking/new-product.php:603
+#: templates/booking/persons/html-booking-person.php:37
+msgid "Description"
+msgstr ""
+
+#: templates/booking/new-product.php:676 templates/booking/new-product.php:677
+#: templates/booking/new-product.php:682 templates/booking/new-product.php:683
+msgid "Save Product"
+msgstr ""
+
+#: templates/booking/persons/html-booking-person.php:10
+#: templates/booking/resources/html-booking-resource.php:13
+msgid "Click to toggle"
+msgstr ""
+
+#: templates/booking/persons/html-booking-person.php:21
+msgid "Person Type Name"
+msgstr ""
+
+#: templates/booking/persons/html-booking-person.php:22
+#: templates/booking/product-list.php:37
+#: templates/booking/resources/resources.php:32
+msgid "Name"
+msgstr ""
+
+#: templates/booking/persons/html-booking-person.php:25
+#: templates/booking/resources/html-booking-resource.php:24
+msgid "Base Cost"
+msgstr ""
+
+#: templates/booking/persons/html-booking-person.php:30
+#: templates/booking/resources/html-booking-resource.php:29
+msgid "Block Cost"
+msgstr ""
+
+#: templates/booking/persons/html-booking-person.php:41
+msgid "Min"
+msgstr ""
+
+#: templates/booking/persons/html-booking-person.php:45
+msgid "Max"
+msgstr ""
+
+#: templates/booking/persons/html-booking-persons.php:4
+msgid "Persons"
+msgstr ""
+
+#: templates/booking/persons/html-booking-persons.php:5
+msgid "Set Person Options"
+msgstr ""
+
+#: templates/booking/persons/html-booking-persons.php:13
+msgid "Min persons"
+msgstr ""
+
+#: templates/booking/persons/html-booking-persons.php:14
+msgid "The minimum number of persons per booking."
+msgstr ""
+
+#: templates/booking/persons/html-booking-persons.php:21
+msgid "Max persons"
+msgstr ""
+
+#: templates/booking/persons/html-booking-persons.php:22
+msgid "The maximum number of persons per booking."
+msgstr ""
+
+#: templates/booking/persons/html-booking-persons.php:31
+msgid "Multiply all costs by person count"
+msgstr ""
+
+#: templates/booking/persons/html-booking-persons.php:33
+#: templates/booking/persons/html-booking-persons.php:41
+msgid ""
+"Enable this to multiply the entire cost of the booking (block and base "
+"costs) by the person count."
+msgstr ""
+
+#: templates/booking/persons/html-booking-persons.php:39
+msgid "Count persons as bookings"
+msgstr ""
+
+#: templates/booking/persons/html-booking-persons.php:47
+msgid "Enable person types"
+msgstr ""
+
+#: templates/booking/persons/html-booking-persons.php:49
+#: templates/booking/persons/html-booking-persons.php:79
+msgid ""
+"Person types allow you to offer different booking costs for different types "
+"of individuals, for example, adults and children."
+msgstr ""
+
+#: templates/booking/persons/html-booking-persons.php:58
+msgid "Person types"
+msgstr ""
+
+#: templates/booking/persons/html-booking-persons.php:97
+msgid "Add Person Type"
+msgstr ""
+
+#: templates/booking/product-list.php:18
+msgid "Add New Booking Product"
+msgstr ""
+
+#: templates/booking/product-list.php:36
+msgid "Image"
+msgstr ""
+
+#: templates/booking/product-list.php:38
+msgid "Status"
+msgstr ""
+
+#: templates/booking/product-list.php:39
+msgid "SKU"
+msgstr ""
+
+#: templates/booking/product-list.php:40
+msgid "Stock"
+msgstr ""
+
+#: templates/booking/product-list.php:41
+msgid "Price"
+msgstr ""
+
+#: templates/booking/product-list.php:42
+#: templates/booking/resources/html-booking-resources.php:17
+msgid "Type"
+msgstr ""
+
+#: templates/booking/product-list.php:43
+msgid "Views"
+msgstr ""
+
+#: templates/booking/product-list.php:44
+msgid "Date"
+msgstr ""
+
+#: templates/booking/product-list.php:131
+msgid "Delete Permanently"
+msgstr ""
+
+#: templates/booking/product-list.php:154
+msgid "In stock"
+msgstr ""
+
+#: templates/booking/product-list.php:156
+msgid "Out of stock"
+msgstr ""
+
+#: templates/booking/product-list.php:176
+msgid "Grouped"
+msgstr ""
+
+#: templates/booking/product-list.php:178
+msgid "External/Affiliate"
+msgstr ""
+
+#: templates/booking/product-list.php:184
+msgid "Downloadable"
+msgstr ""
+
+#: templates/booking/product-list.php:186
+msgid "Simple"
+msgstr ""
+
+#: templates/booking/product-list.php:190
+msgid "Variable"
+msgstr ""
+
+#: templates/booking/product-list.php:203
+msgid "Unpublished"
+msgstr ""
+
+#: templates/booking/product-list.php:206
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: templates/booking/product-list.php:213
+msgid "%s ago"
+msgstr ""
+
+#: templates/booking/product-list.php:215
+msgid "Y/m/d"
+msgstr ""
+
+#: templates/booking/product-list.php:222
+msgid "Published"
+msgstr ""
+
+#: templates/booking/product-list.php:225
+msgid "Missed schedule"
+msgstr ""
+
+#: templates/booking/product-list.php:227
+msgid "Scheduled"
+msgstr ""
+
+#: templates/booking/product-list.php:230
+msgid "Last Modified"
+msgstr ""
+
+#: templates/booking/product-list.php:240
+msgid "No product found"
+msgstr ""
+
+#: templates/booking/product-list.php:263
+#: templates/booking/resources/resources.php:143
+msgid "&laquo; Previous"
+msgstr ""
+
+#: templates/booking/product-list.php:264
+#: templates/booking/resources/resources.php:144
+msgid "Next &raquo;"
+msgstr ""
+
+#: templates/booking/resources/edit-resource.php:33
+msgid "The Resource has been updated successfully."
+msgstr ""
+
+#: templates/booking/resources/edit-resource.php:41
+msgid "Invalid Resource Id"
+msgstr ""
+
+#: templates/booking/resources/edit-resource.php:45
+msgid "You do not have permission to edit this resource"
+msgstr ""
+
+#: templates/booking/resources/edit-resource.php:64
+msgid "Resource Title"
+msgstr ""
+
+#: templates/booking/resources/edit-resource.php:65
+msgid "Resource name.."
+msgstr ""
+
+#: templates/booking/resources/edit-resource.php:68
+msgid "Available Quantity"
+msgstr ""
+
+#: templates/booking/resources/edit-resource.php:125
+#: templates/booking/resources/edit-resource.php:127
+msgid "Save Resource"
+msgstr ""
+
+#: templates/booking/resources/html-booking-resources.php:3
+msgid "Additional Resources"
+msgstr ""
+
+#: templates/booking/resources/html-booking-resources.php:4
+msgid "Set Available Resources"
+msgstr ""
+
+#: templates/booking/resources/html-booking-resources.php:12
+msgid "Label"
+msgstr ""
+
+#: templates/booking/resources/html-booking-resources.php:13
+msgid "The label shown on the frontend if the resource is customer defined."
+msgstr ""
+
+#: templates/booking/resources/html-booking-resources.php:20
+msgid "Resources are..."
+msgstr ""
+
+#: templates/booking/resources/html-booking-resources.php:21
+msgid ""
+"Customer selected resources allow customers to choose one from the booking "
+"form."
+msgstr ""
+
+#: templates/booking/resources/html-booking-resources.php:26
+msgid "Customer selected"
+msgstr ""
+
+#: templates/booking/resources/html-booking-resources.php:27
+msgid "Automatically assigned"
+msgstr ""
+
+#: templates/booking/resources/html-booking-resources.php:34
+msgid "Resources"
+msgstr ""
+
+#: templates/booking/resources/html-booking-resources.php:41
+msgid ""
+"Resources are used if you have multiple bookable items, e.g. room types, "
+"instructors or ticket types. Availability for resources is global across "
+"all bookable products."
+msgstr ""
+
+#: templates/booking/resources/html-booking-resources.php:79
+msgid "Add/link Resource"
+msgstr ""
+
+#: templates/booking/resources/html-booking-resources.php:97
+msgid "No existing resource was found, please <a href='%s'>add resource</a>"
+msgstr ""
+
+#: templates/booking/resources/resources.php:7
+msgid "Add new Resource"
+msgstr ""
+
+#: templates/booking/resources/resources.php:33
+msgid "Parent"
+msgstr ""
+
+#: templates/booking/resources/resources.php:120
+msgid "No Resource found"
+msgstr ""
+
+#: templates/emails/admin-booking-cancelled.php:12
+#: templates/emails/customer-booking-cancelled.php:12
+#: templates/emails/plain/admin-booking-cancelled.php:9
+#: templates/emails/plain/customer-booking-cancelled.php:9
+msgid ""
+"The following booking has been cancelled by the customer. The details of "
+"the cancelled booking can be found below."
+msgstr ""
+
+#: templates/emails/admin-booking-cancelled.php:23
+#: templates/emails/admin-new-booking.php:29
+#: templates/emails/customer-booking-cancelled.php:23
+msgid "Booking ID"
+msgstr ""
+
+#: templates/emails/admin-booking-cancelled.php:28
+#: templates/emails/admin-new-booking.php:34
+#: templates/emails/customer-booking-cancelled.php:28
+msgid "Booking Type"
+msgstr ""
+
+#: templates/emails/admin-booking-cancelled.php:33
+#: templates/emails/admin-new-booking.php:39
+#: templates/emails/customer-booking-cancelled.php:33
+msgid "Booking Start Date"
+msgstr ""
+
+#: templates/emails/admin-booking-cancelled.php:37
+#: templates/emails/admin-new-booking.php:43
+#: templates/emails/customer-booking-cancelled.php:37
+msgid "Booking End Date"
+msgstr ""
+
+#: templates/emails/admin-booking-cancelled.php:47
+#: templates/emails/admin-new-booking.php:53
+#: templates/emails/customer-booking-cancelled.php:47
+#: templates/emails/plain/admin-booking-cancelled.php:29
+#: templates/emails/plain/admin-new-booking.php:39
+#: templates/emails/plain/customer-booking-cancelled.php:29
+msgid "Person(s)"
+msgstr ""
+
+#: templates/emails/admin-booking-cancelled.php:58
+#: templates/emails/customer-booking-cancelled.php:58
+msgid "View and edit this booking in the dashboard"
+msgstr ""
+
+#: templates/emails/admin-new-booking.php:10
+#: templates/emails/plain/admin-new-booking.php:12
+msgid ""
+"A booking has been made by %s and is awaiting your approval. The details of "
+"this booking are as follows:"
+msgstr ""
+
+#: templates/emails/admin-new-booking.php:12
+#: templates/emails/plain/admin-new-booking.php:14
+msgid ""
+"A new booking has been made by %s. The details of this booking are as "
+"follows:"
+msgstr ""
+
+#: templates/emails/admin-new-booking.php:65
+#: templates/emails/plain/admin-new-booking.php:47
+msgid ""
+"This booking is awaiting your approval. Please check it and inform the "
+"customer if the date is available or not."
+msgstr ""
+
+#: templates/emails/admin-new-booking.php:68
+msgid "View and edit this booking in the dashboard "
+msgstr ""
+
+#: templates/emails/plain/admin-booking-cancelled.php:13
+#: templates/emails/plain/admin-new-booking.php:23
+#: templates/emails/plain/customer-booking-cancelled.php:13
+msgid "Booked: %s"
+msgstr ""
+
+#: templates/emails/plain/admin-booking-cancelled.php:14
+#: templates/emails/plain/admin-new-booking.php:24
+#: templates/emails/plain/customer-booking-cancelled.php:14
+msgid "Booking ID: %s"
+msgstr ""
+
+#: templates/emails/plain/admin-booking-cancelled.php:17
+#: templates/emails/plain/admin-new-booking.php:27
+#: templates/emails/plain/customer-booking-cancelled.php:17
+msgid "Booking Type: %s"
+msgstr ""
+
+#: templates/emails/plain/admin-booking-cancelled.php:20
+#: templates/emails/plain/admin-new-booking.php:30
+#: templates/emails/plain/customer-booking-cancelled.php:20
+msgid "Booking Start Date: %s"
+msgstr ""
+
+#: templates/emails/plain/admin-booking-cancelled.php:21
+#: templates/emails/plain/admin-new-booking.php:31
+#: templates/emails/plain/customer-booking-cancelled.php:21
+msgid "Booking End Date: %s"
+msgstr ""
+
+#: templates/emails/plain/admin-booking-cancelled.php:30
+#: templates/emails/plain/admin-new-booking.php:40
+#: templates/emails/plain/customer-booking-cancelled.php:30
+msgid "%s: %d"
+msgstr ""
+
+#: templates/emails/plain/admin-booking-cancelled.php:36
+#: templates/emails/plain/customer-booking-cancelled.php:36
+msgid "You can view and edit this booking in the dashboard here: %s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Dokan - WooCommerce Booking Integration"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wedevs.com/products/plugins/dokan/woocommerce-booking-integration/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This Plugin Integrates WooCommerce Booking with Dokan."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "weDevs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wedevs.com"
+msgstr ""
+
+#: templates/booking/calendar/html-calendar-month.php:66
+msgctxt "date format"
+msgid "l"
+msgstr ""
+
+#: templates/booking/html-shipping-tax.php:121
+msgctxt "Tax status"
+msgid "None"
+msgstr ""

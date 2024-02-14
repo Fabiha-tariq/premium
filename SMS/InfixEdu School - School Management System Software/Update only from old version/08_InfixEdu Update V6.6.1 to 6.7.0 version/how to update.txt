@@ -1,0 +1,12 @@
+###== Please take backup before upgrade to new version, incase make problem may not get instant solution, so backup is the best solution.==##
+
+Minimum 6.4.0 is required.
+
+1. Go to Setting > Update
+2. Browse iInfixLMS update zip and save.
+3. If Request not handling issue,"/bootstrap/cache" manually  delete all files. 
+3. If error in register then make sure email config is done?
+4.Done. 
+
+Check video how to one click update
+https://www.youtube.com/watch?v=3NEY3DI84yA
